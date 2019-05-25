@@ -8,7 +8,10 @@
 | :---------: | ------ | ---------- | -------- | -------- | ---- |
 |  username   | string | 设置用户名 | Y        | code     |      |
 |  password   | string | 设置密码   | Y        | mesage   |      |
-| re_password | string | 确认密码   | Y        |          |      |
+| re_password | string | 确认密码   | Y        |          |      |  
+  
+    
+      
 
 
 
