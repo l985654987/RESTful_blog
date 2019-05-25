@@ -11,10 +11,7 @@
 | re_password | string | 确认密码   | Y        |          |      |  
   
     
-      
-
-
-
+    
 
 
 请求url:http://127.0.0.1:8000/api/app_1/login
