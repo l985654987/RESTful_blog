@@ -10,9 +10,8 @@
 |  password   | string | 设置密码   | Y        | mesage   |      |
 | re_password | string | 确认密码   | Y        |          |      |  
   
-    
-    
-
+<br>
+<br>
 
 请求url:http://127.0.0.1:8000/api/app_1/login
 
